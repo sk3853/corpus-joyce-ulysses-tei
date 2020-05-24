@@ -152,7 +152,7 @@
 <lb n="150151"/>arclamp. He disappears. In a moment he reappears and hurries
 <lb n="150152"/>on.)</stage>
 <sp who="lb"><speaker><lb n="150153"/>Bloom</speaker>
-<p><lb n="150154"/>Fish and taters. N. g. Ah!</p></sp>
+ <p><lb n="150154"/><said who="lb" aloud="false">Fish and taters. N. g. Ah!</said></p></sp>
 <stage><lb n="150155"/>(He disappears into Olhausen's, the porkbutcher's, under the
 <lb n="150156"/>downcoming rollshutter. A few moments later he emerges from
 <lb n="150157"/>under the shutter, puffing Poldy, blowing Bloohoom. In each hand
@@ -161,18 +161,18 @@
 <lb n="150160"/>standing upright. Then bending to one side he presses a parcel
 <lb n="150161"/>against his ribs and groans.)</stage>
 <sp who="lb"><speaker><lb n="150162"/>Bloom</speaker>
-<p><lb n="150163"/>Stitch in my side. Why did I run?</p></sp>
+ <p><lb n="150163"/><said who="lb" aloud="false">Stitch in my side. Why did I run?</said></p></sp>
 <stage><lb n="150164"/>(He takes breath with care and goes forward slowly towards the
 <lb n="150165"/>lampset siding. The glow leaps again.)</stage>
 <sp who="lb"><speaker><lb n="150166"/>Bloom</speaker>
-<p><lb n="150167"/>What is that? A flasher? Searchlight.</p></sp>
+ <p><lb n="150167"/><said who="lb" aloud="false">What is that? A flasher? Searchlight.</said></p></sp>
 <stage><lb n="150168"/>(He stands at Cormack's corner, watching.)</stage>
 <sp who="lb"><speaker><lb n="150169"/>Bloom</speaker>
-<p><foreign xml:lang="la"><lb n="150170"/>Aurora borealis</foreign> or a steel foundry? Ah, the brigade, of course. South side
-<lb n="150171"/>anyhow. Big blaze. Might be his house. Beggar's bush. We're safe. <stage>(he
+<p><foreign xml:lang="la"><lb n="150170"/><said who="lb" aloud="false">Aurora borealis</foreign> or a steel foundry? Ah, the brigade, of course. South side
+ <lb n="150171"/>anyhow. Big blaze. Might be his house. Beggar's bush. We're safe. </said><stage>(he
 <lb n="150172"/>hums cheerfully)</stage> London's burning, London's burning! On fire, on fire!
 <stage><lb n="150173"/>(he catches sight of the navvy lurching through the crowd at the farther
-<lb n="150174"/>side of Talbot street)</stage> I'll miss him. Run. Quick. Better cross here.</p></sp>
+<lb n="150174"/>side of Talbot street)</stage><said who="lb" aloud="false"> I'll miss him. Run. Quick. Better cross here.</said></p></sp>
 <stage><lb n="150175"/>(He darts to cross the road. Urchins shout.)</stage>
 <sp who="The Urchins"><speaker><lb n="150176"/>The Urchins</speaker>
 <p><lb n="150177"/>Mind out, mister!</p></sp>
@@ -197,7 +197,7 @@
 <stage><lb n="150196"/>(Bloom trickleaps to the curbstone and halts again. He brushes a
 <lb n="150197"/>mudflake from his cheek with a parcelled hand.)</stage>
 <sp who="lb"><speaker><lb n="150198"/>Bloom</speaker>
-<p><lb n="150199"/>No thoroughfare. Close shave that but cured the stitch. Must take up
+<p><lb n="150199"/><said who="lb" aloud="false">No thoroughfare. Close shave that but cured the stitch. Must take up
 <lb n="150200"/>Sandow's exercises again. On the hands down. Insure against street
 <lb n="150201"/>accident too. The Providential. <stage>(he feels his trouser pocket)</stage> Poor
 <lb n="150202"/>mamma's panacea. Heel easily catch in track or bootlace in a cog. Day the
@@ -209,7 +209,7 @@
 <lb n="150208"/>Something poisonous I ate. Emblem of luck. Why? Probably lost cattle.
 <lb n="150209"/>Mark of the beast. <stage>(he closes his eyes an instant)</stage> Bit light in the head.
 <lb n="150210"/>Monthly or effect of the other. Brainfogfag. That tired feeling. Too much
-<lb n="150211"/>for me now. Ow!</p></sp>
+ <lb n="150211"/>for me now. Ow!</said></p></sp>
 <stage><lb n="150212"/>(A sinister figure leans on plaited legs against O'Beirne's wall, a
 <lb n="150213"/>visage unknown, injected with dark mercury. From under a
 <lb n="150214"/>wideleaved sombrero the figure regards him with evil eye.)</stage>
@@ -229,12 +229,12 @@
 <p><lb n="150228"/>I beg.</p></sp>
 <stage><lb n="150229"/>(He swerves, sidles, stepaside, slips past and on.)</stage>
 <sp who="lb"><speaker><lb n="150230"/>Bloom</speaker>
-<p><lb n="150231"/>Keep to the right, right, right. If there is a signpost planted by the Touring
+<p><lb n="150231"/><said who="lb" aloud="false">Keep to the right, right, right. If there is a signpost planted by the Touring
 <lb n="150232"/>Club at Stepaside who procured that public boon? I who lost my way and
 <lb n="150233"/>contributed to the columns of the <title type="newspaper">Irish Cyclist</title> the letter headed <emph>In darkest
 <lb n="150234"/>Stepaside</emph>. Keep, keep, keep to the right. Rags and bones at midnight. A
 <lb n="150235"/>fence more likely. First place murderer makes for. Wash off his sins of the
-<lb n="150236"/>world.</p></sp>
+ <lb n="150236"/>world.</said></p></sp>
 <stage><lb n="150237"/>(Jacky Caffrey, hunted by Tommy Caffrey, runs full tilt against
 <lb n="150238"/>Bloom.)</stage>
 <sp who="lb"><speaker><lb n="150239"/>Bloom</speaker>
@@ -243,8 +243,8 @@
 <lb n="150242"/>there, there. Bloom pats with parcelled hands watchfob,
 <lb n="150243"/>pocketbookpocket, pursepoke, sweets of sin, potatosoap.)</stage>
 <sp who="lb"><speaker><lb n="150244"/>Bloom</speaker>
-<p><lb n="150245"/>Beware of pickpockets. Old thieves' dodge. Collide. Then snatch your
-<lb n="150246"/>purse.</p></sp>
+<p><lb n="150245"/><said who="lb" aloud="false">Beware of pickpockets. Old thieves' dodge. Collide. Then snatch your
+ <lb n="150246"/>purse.</said></p></sp>
 <stage><lb n="150247"/>(The retriever approaches sniffing, nose to the ground. A sprawled
 <lb n="150248"/>form sneezes. A stooped bearded figure appears garbed in the long
 <lb n="150249"/>caftan of an elder in Zion and a smokingcap with magenta tassels.
@@ -591,8 +591,8 @@
 <stage><lb n="150590"/>(Their paintspeckled hats wag. Spattered with size and lime of their
 <lb n="150591"/>lodges they frisk limblessly about him.)</stage>
 <sp who="lb"><speaker><lb n="150592"/>Bloom</speaker>
-<p><lb n="150593"/>Coincidence too. They think it funny. Anything but that. Broad daylight.
-<lb n="150594"/>Trying to walk. Lucky no woman.</p></sp>
+<p><lb n="150593"/><said who="lb" aloud="false">Coincidence too. They think it funny. Anything but that. Broad daylight.
+ <lb n="150594"/>Trying to walk. Lucky no woman.</said></p></sp>
 <sp who="The Loiterers"><speaker><lb n="150595"/>The Loiterers</speaker>
 <p><lb n="150596"/>Jays, that's a good one. Glauber salts. O jays, into the men's porter.</p></sp>
 <stage><lb n="150597"/>(Bloom passes. Cheap whores, singly, coupled, shawled, dishevelled,
@@ -633,7 +633,7 @@
 <stage><lb n="150632"/>(He staggers forward, dragging them with him. Bloom stops, at
 <lb n="150633"/>fault. The dog approaches, his tongue outlolling, panting.)</stage>
 <sp who="lb"><speaker><lb n="150634"/>Bloom</speaker>
-<p><lb n="150635"/>Wildgoose chase this. Disorderly houses. Lord knows where they are gone.
+<p><lb n="150635"/><said who="lb" aloud="false">Wildgoose chase this. Disorderly houses. Lord knows where they are gone.
 <lb n="150636"/>Drunks cover distance double quick. Nice mixup. Scene at Westland row.
 <lb n="150637"/>Then jump in first class with third ticket. Then too far. Train with engine
 <lb n="150638"/>behind. Might have taken me to Malahide or a siding for the night or
@@ -646,30 +646,30 @@
 <lb n="150645"/>always save you, though. If I had passed Truelock's window that day two
 <lb n="150646"/>minutes later would have been shot. Absence of body. Still if bullet only
 <lb n="150647"/>went through my coat get damages for shock, five hundred pounds. What
-<lb n="150648"/>was he? Kildare street club toff. God help his gamekeeper.</p>
+ <lb n="150648"/>was he? Kildare street club toff. God help his gamekeeper.</said></p>
 <p><stage><lb n="150649"/>(He gazes ahead, reading on the wall a scrawled chalk legend <emph>Wet Dream</emph>
-<lb n="150650"/>and a phallic design.)</stage> Odd! Molly drawing on the frosted carriagepane at
-<lb n="150651"/>Kingstown. What's that like? <stage>(Gaudy dollwomen loll in the lighted
+<lb n="150650"/>and a phallic design.)</stage><said who="lb" aloud="false"> Odd! Molly drawing on the frosted carriagepane at
+ <lb n="150651"/>Kingstown. What's that like? </said><stage>(Gaudy dollwomen loll in the lighted
 <lb n="150652"/>doorways, in window embrasures, smoking birdseye cigarettes. The odour
 <lb n="150653"/>of the sicksweet weed floats towards him in slow round ovalling wreaths.)</stage></p></sp>
 <sp who="The Wreaths"><speaker><lb n="150654"/>The Wreaths</speaker>
 <p><lb n="150655"/>Sweet are the sweets. Sweets of sin.</p></sp>
 <sp who="lb"><speaker><lb n="150656"/>Bloom</speaker>
-<p><lb n="150657"/>My spine's a bit limp. Go or turn? And this food? Eat it and get all
-<lb n="150658"/>pigsticky. Absurd I am. Waste of money. One and eightpence too much.
+<p><lb n="150657"/><said who="lb" aloud="false">My spine's a bit limp. Go or turn? And this food? Eat it and get all
+ <lb n="150658"/>pigsticky. Absurd I am. Waste of money. One and eightpence too much.</said>
 <stage><lb n="150659"/>(The retriever drives a cold snivelling muzzle against his hand, wagging his
-<lb n="150660"/>tail.)</stage> Strange how they take to me. Even that brute today. Better speak to
+<lb n="150660"/>tail.)</stage><said who="lb" aloud="false"> Strange how they take to me. Even that brute today. Better speak to
 <lb n="150661"/>him first. Like women they like <foreign xml:lang="fr">rencontres</foreign>. Stinks like a polecat. <foreign xml:lang="fr">Chacun
 <lb n="150662"/>son goût.</foreign> He might be mad. Dogdays. Uncertain in his movements. Good
-<lb n="150663"/>fellow! Fido! Good fellow! Garryowen! <stage>(The wolfdog sprawls on his back,
+ <lb n="150663"/>fellow! Fido! Good fellow! Garryowen! </said><stage>(The wolfdog sprawls on his back,
 <lb n="150664"/>wriggling obscenely with begging paws, his long black tongue lolling out.)</stage>
-<lb n="150665"/>Influence of his surroundings. Give and have done with it. Provided
-<lb n="150666"/>nobody. <stage>(Calling encouraging words he shambles back with a furtive
+<lb n="150665"/><said who="lb" aloud="false">Influence of his surroundings. Give and have done with it. Provided
+ <lb n="150666"/>nobody. </said><stage>(Calling encouraging words he shambles back with a furtive
 <lb n="150667"/>poacher's tread, dogged by the setter into a dark stalestunk corner. He
 <lb n="150668"/>unrolls one parcel and goes to dump the crubeen softly but holds back and
-<lb n="150669"/>feels the trotter.)</stage> Sizeable for threepence. But then I have it in my left hand.
+<lb n="150669"/>feels the trotter.)</stage><said who="lb" aloud="false"> Sizeable for threepence. But then I have it in my left hand.
 <lb n="150670"/>Calls for more effort. Why? Smaller from want of use. O, let it slide. Two
-<lb n="150671"/>and six.</p></sp>
+ <lb n="150671"/>and six.</said></p></sp>
 <stage><lb n="150672"/>(With regret he lets the unrolled crubeen and trotter slide. The
 <lb n="150673"/>mastiff mauls the bundle clumsily and gluts himself with growling
 <lb n="150674"/>greed, crunching the bones. Two raincaped watch approach, silent,
@@ -1276,7 +1276,7 @@
 <stage><lb n="151275"/>(They rustle, flutter upon his garments, alight, bright giddy flecks,
 <lb n="151276"/>silvery sequins.)</stage>
 <sp who="lb"><speaker><lb n="151277"/>Bloom</speaker>
-<p><lb n="151278"/>A man's touch. Sad music. Church music. Perhaps here.</p></sp>
+<p><lb n="151278"/><said who="lb" aloud="false">A man's touch. Sad music. Church music. Perhaps here.</said></p></sp>
 <stage><lb n="151279"/>(Zoe Higgins, a young whore in a sapphire slip, closed with three
 <lb n="151280"/>bronze buckles, a slim black velvet fillet round her throat, nods,
 <lb n="151281"/>trips down the steps and accosts him.)</stage>
